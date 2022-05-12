@@ -18,7 +18,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    author_email="hiraksahari@gmail.com",
+    author_email="hiraksahari4@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
     python_requires=">=3.6",
